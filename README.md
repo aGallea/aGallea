@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- [![GitHub Snake](https://github.com/aGallea/aGallea/dist/github-contribution-grid-snake-dark.svg)](#my-github-stats) -->
-![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/aGallea/aGallea/blob/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/aGallea/aGallea/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/aGallea/aGallea/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <!--
 **aGallea/aGallea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

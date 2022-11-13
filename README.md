@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- name: Generate-README.md-snake
+  uses: InvalidLenni/README.md@Template
+
 <!--
 **aGallea/aGallea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
